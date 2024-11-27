@@ -7,7 +7,6 @@ def url_open():
     toast(
     "Mondo",
     "Mondoの時間です!",
-    icon = "C:\Users\shigu\Documents\プログラミング\Mondo 通知プログラム\Mondo.jpg",
     on_click="https://mondo.quizknock.com/"
     )
     
