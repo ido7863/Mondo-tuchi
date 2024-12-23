@@ -1,2 +1,2 @@
-0:00になったらhttps://mondo.quizknock.com/
+0:00になったらPCでhttps://mondo.quizknock.com/
 を開く通知を送るプログラム
